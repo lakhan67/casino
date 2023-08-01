@@ -1,0 +1,44 @@
+.backdrop
+{
+    filter: blur(5px);
+    -webkit-filter: blur(5px);
+    margin-left: 20%;
+    padding-top: 10px;
+}
+.log
+{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    width: 30%;
+    height: 50%;
+
+}
+button
+{
+    padding: 10px 10px;
+    width: 60%;
+    margin-left: 110px;
+    background-color: rgb(155, 155, 247);
+    color: rgb(55, 9, 1);
+    font-size: 17px;
+    font-weight: 600;
+    border-radius: 20px 20px 20px 20px;
+}
+.button2
+{
+    padding: 10px 10px;
+    width: 60%;
+    margin-left: 110px;
+    background-color: rgb(134, 22, 3);
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+    border-radius: 20px 20px 20px 20px;
+}
+a
+{
+    text-decoration: none;
+    font-size: 15px;
+    color: rgb(199, 199, 254);
+}
