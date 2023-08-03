@@ -142,7 +142,7 @@ function validate() {
     nameerr.innerHTML = "Name is required.";
     isValid = false;
   }else if (name.length < 3){
-    nameerr.innerHTML = "fullname must be at least 3 characters "
+    nameerr.innerHTML = "fullname must be at least 3 characters";
   }
 
   if (email.trim() === "") {
